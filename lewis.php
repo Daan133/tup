@@ -21,7 +21,7 @@
 <body>
 
 <header>
-    <h1>Lewis Hamilton</h1>
+    <h1>Formula-1</h1>
 </header>
 
 <nav>

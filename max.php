@@ -34,7 +34,6 @@
         <li><a href="cars.php">About the Cars</a></li>
         <li><a href="history.php">History of Formula-1</a></li>
         <li><a href="rules.php">Rules and Regulations</a></li>
-        <li><a href="news.php">Latest News</a></li>
         <li><a href="drivers.php">Drivers</a></li>
     </ul>
 </nav>

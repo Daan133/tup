@@ -68,5 +68,14 @@
         Max's karting career was marked by numerous championships and victories, showcasing his natural talent and determination from a very young age. 
         His success in karting was a clear indication of the bright future that awaited him in the world of motorsport, and it set the stage for his remarkable journey to becoming one of the top drivers in Formula-1.
         Max's karting achievements include multiple national and international titles, solidifying his reputation as a prodigious talent in the world of motorsport from the very beginning of his racing career.
+        If you're a fan of Max Verstappen, be sure to follow his journey in Formula-1 and beyond, as he continues to make history and push the boundaries of what's possible in motorsport.
         Stay tuned for updates on Max's racing career, including his performance in upcoming races.
+        If you click on the image below, you go back to the drivers page where you can find more information about other drivers in Formula-1.
     </p>
+</main>
+
+<footer>
+    <a href="drivers.php"><div class="photo-card"><img src="pictures/max_verstappen.png" alt="Max Verstappen" width="150" height="150"></a></div>
+</footer>
+</body>
+</html>

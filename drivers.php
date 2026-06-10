@@ -34,7 +34,6 @@
         <li><a href="cars.php">About the Cars</a></li>
         <li><a href="history.php">History of Formula-1</a></li>
         <li><a href="rules.php">Rules and Regulations</a></li>
-        <li><a href="news.php">Latest News</a></li>
     </ul>
 </nav>
 
@@ -56,7 +55,7 @@
         You can click on the driver to get more detailed information about their career, statistics, and recent performances.
     </p>
     <p>
-        <a href="max.php"><img src="pictures/max_verstappen.png" alt="Max Verstappen" width="150" height="150"></a>
-        <a href="lewis.php"><img src="pictures/lewis_hamilton.png" alt="Lewis Hamilton" width="150" height="150"></a>
-        <a href="hadjar.php"><img src="pictures/hadjar.png" alt="Hadjar" width="150" height="150"></a>
+        <a href="max.php"><div class="photo-card"><img src="pictures/max_verstappen.png" alt="Max Verstappen" width="150" height="150"></a></div>
+        <a href="lewis.php"><div class="photo-card"><img src="pictures/lewis_hamilton.png" alt="Lewis Hamilton" width="150" height="150"></a></div>
+        <a href="hadjar.php"><div class="photo-card"><img src="pictures/hadjar.png" alt="Hadjar" width="150" height="150"></a></div>
     </p>
